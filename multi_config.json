@@ -1,0 +1,9 @@
+{
+    "models": [
+        "macmiller", "bob", "arianagrande", "syz"
+    ],
+    "examples": {
+        "vc": [],
+        "tts_vc": []
+    }
+}
